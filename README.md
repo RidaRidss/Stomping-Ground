@@ -1,2 +1,2 @@
 # Stomping-Ground
-Event Crud with map location points features added Application based on react native 
+Event Crud with map location points , push notifications features added in Application based on react native 
